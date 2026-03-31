@@ -68,9 +68,23 @@ The project uses three datasets:
 
 ## 📈 Visualizations
 - Course popularity (Bar Chart)
+  
+  ![image URL](https://github.com/Sarthak2077/Acadlytics-Performance/blob/main/processed_script/py%20images/Screenshot%202026-03-31%20222546.png)
+  
 - Fees distribution (Histogram)
+
+  ![image URL](https://github.com/Sarthak2077/Acadlytics-Performance/blob/main/processed_script/py%20images/Screenshot%202026-03-31%20222629.png)
+
 - Certificate status (pie Chart)
+
+  ![image URL](https://github.com/Sarthak2077/Acadlytics-Performance/blob/main/processed_script/py%20images/Screenshot%202026-03-31%20222815.png)
+  
 - Counselor performance (Count Plot)
+
+  ![image URL](https://github.com/Sarthak2077/Acadlytics-Performance/blob/main/processed_script/py%20images/Screenshot%202026-03-31%20222752.png)
+  
 - Monthly admission trends (Line Chart)
+
+  ![image URL](https://github.com/Sarthak2077/Acadlytics-Performance/blob/main/processed_script/py%20images/Screenshot%202026-03-31%20222729.png)
 
 ---
